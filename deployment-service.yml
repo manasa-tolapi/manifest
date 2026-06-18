@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: shaikmustafa/paytm/bus
+        image: nginx
         ports:
         - containerPort: 3000   # Use port 3000
 
