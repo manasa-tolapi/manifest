@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: shaikmustafa/littleheart:zomato
+        image: 923175539719.dkr.ecr.us-east-1.amazonaws.com/manasa:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
