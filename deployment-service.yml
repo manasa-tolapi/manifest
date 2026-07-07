@@ -17,7 +17,7 @@ spec:
       - name: tetris
         image: 923175539719.dkr.ecr.us-east-1.amazonaws.com/manasa:latest
         ports:
-        - containerPort: 3000   # Use port 3000
+        - containerPort: 3000   # Use port 3000 not 4000
 
 ---
 apiVersion: v1
